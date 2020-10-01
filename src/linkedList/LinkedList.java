@@ -1,7 +1,6 @@
 package linkedList;
 
 import java.util.HashSet;
-
 import java.util.Set;
 
 public class LinkedList<T extends Comparable<T>> {
